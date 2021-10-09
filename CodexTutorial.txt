@@ -6,3 +6,5 @@ Laptop
 Watch
 UX
 Wordpress
+Stylus
+Ipad
